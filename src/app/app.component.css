@@ -1,0 +1,11 @@
+.info {
+    width: 20px; 
+    height: 20px; 
+    border-radius: 9999px; 
+    border: 2px solid; 
+    color: orange; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    font-weight: 600;
+}
